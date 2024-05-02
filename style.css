@@ -2,3 +2,24 @@ body{
     background-color: aqua;
     text-align: center;
 }
+.div {
+    margin-left: 330px;
+    margin-top: 50px;
+    border: 10px solid white;
+    height: 400px;
+    width: 600px;
+    background-color: brown;
+}
+
+.text{
+    font-size: 30px;
+    padding: 3px;
+}
+
+.div:hover{
+    background-color: rgb(17, 90, 226);
+    transform: scale(0.8);
+    
+    
+}
+
